@@ -1,0 +1,7 @@
+﻿,RC1,RC2
+ATC,0.35,0.35
+Structure,0.02,0.72
+GO,0.87,0.08
+KEGG,0.82,0
+Jaccard,0.89,0.09
+Distance,0.02,0.67
