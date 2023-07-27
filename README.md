@@ -1,6 +1,6 @@
 # NetPro
 
-Network Embedding framework in Multiplex Networks.
+Network propagation-based machine learning framework.
 
 We consider node feature vector should contains all of information(Chemical,ATC,Target...)
 
@@ -12,10 +12,10 @@ Five steps for NetPro:
 
 1.Constructing the multiplex drug-drug association network.
 
-2.Performancing Random Walk with Restart to identify closely related drug pairs.
+2.Performancing random walk with restart to identify closely related drug pairs.
 
-3.Establishing randomforest models to predict synergistic drug combinations.
+3.Establishing random forest models to predict synergistic drug combinations.
 
-4.Evaluating the toxicity risk for drug combinations with strong synergism.
+4.Evaluating the toxicity risk of drug combinations with strong synergy.
 
 5.Predicting the therapeutic potential of drug combinations for different cancer types.
