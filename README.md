@@ -14,7 +14,7 @@ Five steps for NetPro:
 
 2.Performancing random walk with restart to identify closely related drug pairs.
 
-3.Establishing random forest models to predict synergistic drug combinations.
+3.Establishing random  forest models to predict synergistic drug combinations.
 
 4.Evaluating the toxicity risk of drug combinations with strong synergy.
 
