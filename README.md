@@ -6,16 +6,16 @@ We consider node feature vector should contains all of information(Chemical,ATC,
 
 The application of NetPro:
 
-Drug combination prediction.Data from DrugBank, DrugCombDB, SIDER et al.
+Drug combination prediction. Data from DrugBank, DrugCombDB, SIDER et al.
 
 Five steps for NetPro:
 
-1.constructing the multiplex drug-drug association network
+1.Constructing the multiplex drug-drug association network
 
-2.Random Walk with Restart to identify closely related drug pairs
+2.Performancing Random Walk with Restart to identify closely related drug pairs
 
-3.establish machine learning models to predict synergistic drug combinations
+3.Establishing randomforest models to predict synergistic drug combinations
 
-4.evaluate the toxicity risk for drug combinations with strong synergism
+4.Evaluating the toxicity risk for drug combinations with strong synergism
 
-5.Randomforest classifier
+5.Predicting the therapeutic potential of drug combinations for different cancer types.
