@@ -1,7 +1,7 @@
 # NetPro
 
 Network Embedding framework in Multiplex Networks.
--
+
 We consider node feature vector should contains all of information(Chemical,ATC,Target...)
 
 The application of NetPro:
